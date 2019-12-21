@@ -1,5 +1,5 @@
 header {
-  text-align: center
+  text-align: center;
 }
 
 img {
@@ -9,8 +9,9 @@ img {
 }
 
 nav > a {
-  text-align: center
-  background: 
+  text-align: center;
+  background: red;
+  color: white;
 }
 
 body {
